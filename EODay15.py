@@ -94,5 +94,4 @@ def run_machine():
                 report(resources, profit)
                 print("Thank you for your custom!!☕")
 
-
 run_machine()

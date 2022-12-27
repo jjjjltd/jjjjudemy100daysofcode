@@ -40,5 +40,3 @@ while right == False:
         else:
             print(f"My guess was {hidden_number}.  Unlucky!")
             right = True
-
-os.system('cls')
